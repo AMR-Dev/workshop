@@ -1,4 +1,4 @@
-# Taller de AMR
+# Infraestructura de DesignBosco
 Materia Taller de Mantenimiento II.
 
 ## Requerimientos
